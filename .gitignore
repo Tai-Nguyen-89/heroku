@@ -1,0 +1,6 @@
+# good to add all these even before you have the files, just to ensure you don't accidently push information to github.
+.env
+.env.*
+node_modules/
+# node_modules works too, slash at end shows its a folder instead of a file.
+package-lock.json
